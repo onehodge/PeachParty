@@ -32,4 +32,4 @@ The player controlling Yoshi uses the following keys to direct his activity:
 
 The demo gameplay is attached below:
 
-<video src="https://github.com/onehodge/PeachParty/Screenshots/peachparty_demoplay?raw=true"></video>
+<video src="https://github.com/onehodge/PeachParty/blob/d84080b8c2cac6e83ce200a065e64eb896a2cfe8/Screenshots/peachparty_demoplay.mov?raw=true"></video>
