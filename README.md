@@ -6,7 +6,7 @@ Peach Party is a two-player game set in a board game-like world. Players control
 
 Peach Party is a fun and engaging game that challenges players to balance collecting, avoiding, and strategizing. Below is a screenshot of the game:
 
-![Screenshot 2023-04-04 at 10.18.59 PM](/Users/onehodge/Documents/GitHub/PeachParty/Screenshots/Screenshot 2023-04-04 at 10.18.59 PM.png)
+![Screenshot](https://github.com/onehodge/PeachParty/Screenshots/peachparty_demoplay?raw=true)
 
 We can see a Boo - a baddie - in the bottom left corner, with Yoshi (the green fellow with brown shoes) to that Boo's right. Peach can be seen in her pink dress up and to the right of them. Bowser is hanging out in the left column of the board midway down. 
 
@@ -32,4 +32,4 @@ The player controlling Yoshi uses the following keys to direct his activity:
 
 The demo gameplay is attached below:
 
-<video src="/Users/onehodge/Documents/GitHub/PeachParty/Screenshots/peachparty_demoplay.mov"></video>
+<video src="https://github.com/onehodge/PeachParty/Screenshots/peachparty_demoplay?raw=true"></video>
